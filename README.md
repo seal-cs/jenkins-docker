@@ -4,7 +4,7 @@ This is a project for running a Jenkins server within a Docker container on any 
 
 The project was inspired by Edward Viaene (https://github.com/wardviaene) and his Udemy course "Learn DevOps: CI/CD with Jenkins using Pipelines and Docker".
 
-Start by runnint
+Start by running
 
 ```
 ./install.sh
